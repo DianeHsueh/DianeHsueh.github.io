@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://DianeHsueh.github.io/atom.xml" rel="self"/>
   <link href="http://DianeHsueh.github.io/"/>
-  <updated>2014-10-14T22:19:09+08:00</updated>
+  <updated>2014-10-14T22:24:16+08:00</updated>
   <id>http://DianeHsueh.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -21,6 +21,8 @@
     <content type="html"><![CDATA[<h1>網站開發課程</h1>
 
 <p><strong>It&rsquo;s cooooooool</strong></p>
+
+<p><a href="https://docs.google.com/file/d/0B5aVOfko9F9WdmpZZXctanQxZVU/edit" title="EPOCH">EPOCH graduate ceremony</a></p>
 ]]></content>
   </entry>
   
