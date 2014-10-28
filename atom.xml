@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://DianeHsueh.github.io/atom.xml" rel="self"/>
   <link href="http://DianeHsueh.github.io/"/>
-  <updated>2014-10-28T19:30:28+08:00</updated>
+  <updated>2014-10-28T19:53:53+08:00</updated>
   <id>http://DianeHsueh.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -14,11 +14,15 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Today]]></title>
+    <title type="html"><![CDATA[Today 10/28]]></title>
     <link href="http://DianeHsueh.github.io/blog/2014/10/28/today/"/>
     <updated>2014-10-28T19:15:52+08:00</updated>
     <id>http://DianeHsueh.github.io/blog/2014/10/28/today</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<h1><em>網站開發 lesson 5</em></h1>
+
+<h2>今天要上課</h2>
+
+<p>＃data</p>
 ]]></content>
   </entry>
   
